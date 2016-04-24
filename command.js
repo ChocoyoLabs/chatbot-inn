@@ -13,6 +13,7 @@ exports.latest = function (device, match, callback) {
       },
       {
         text: video.title,
+        bold: true,
       },
       {
         video: {
