@@ -1,0 +1,25 @@
+{
+  "name": "chatbot-inn",
+  "version": "1.0.0",
+  "description": "El video más reciente del canal de INN para Chocoyo Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChocoyoLabs/chatbot-inn.git"
+  },
+  "author": "Paulo McNally <paulo.mcnally@chocoyolabs.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChocoyoLabs/chatbot-inn/issues"
+  },
+  "homepage": "https://github.com/ChocoyoLabs/chatbot-inn#readme",
+  "devDependencies": {
+    "sequelize": "3.21.0"
+  },
+  "dependencies": {
+    "request": "2.72.0"
+  }
+}
